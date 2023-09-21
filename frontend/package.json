@@ -15,7 +15,7 @@
   "dependencies": {
     "@nuxtjs/markdownit": "^2.0.0",
     "@nuxtjs/strapi": "^1.4.0",
-    "graphql": "^16.5.0",
+    "graphql": "^16.8.1",
     "moment": "^2.29.4",
     "nuxt": "^3.4.3",
     "uikit": "^3.14.3"
